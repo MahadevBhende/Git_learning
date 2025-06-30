@@ -7,4 +7,4 @@ branch
 push
 pull
 merge
-pull request
+pull requests
